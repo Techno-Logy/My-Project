@@ -25,6 +25,7 @@ Contents:
          
 4. AWS set-up:
    
+      The following *AWS Resources* has been used.
          (a) ec2 instance
          (b) VPC
          (c) Subnet
@@ -33,8 +34,9 @@ Contents:
          (f) Resource group: (i) security group
                              (ii) ingress
                              (iii) egress
+         (g) EKS Cluster
    
-      6. EKS:
+5. EKS:
    [https://us-east-1.console.aws.amazon.com/eks/home?region=us-east-1#/clusters/demo-eks?selectedTab=cluster-overview-tab] 
             
 Steps:
